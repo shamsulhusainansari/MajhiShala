@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243449668317",
+    "firebase_url": "https://majhi-shala.firebaseio.com",
+    "project_id": "majhi-shala",
+    "storage_bucket": "majhi-shala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243449668317:android:4f8f8e5f1f90ce490a3134",
+        "android_client_info": {
+          "package_name": "com.knoxtech.majhishala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243449668317-vvvfm1q9lk2eb5keuvsa73rpf39oldrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvb6fpUT776HPuqoCZUdg0OKbcSeJH2z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243449668317-vvvfm1q9lk2eb5keuvsa73rpf39oldrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

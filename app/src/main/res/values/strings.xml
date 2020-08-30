@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Majhi Shala</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="todo">todo</string>
+    <string name="shamsul_husain_ansari">Shamsul Husain Ansari</string>
+    <string name="search">Search</string>
+    <string name="view_all">View all</string>
+    <string name="lecture_name">Lecture Name</string>
+    <string name="stream">Choose Stream</string>
+    <string name="rewind">rewind</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="forward">forward</string>
+    <string name="slash">/</string>
+    <string name="ads_placement_id">678566876342028_678569516341764</string>
+    <string name="facebook_app_id">303412420889025</string>
+    <string name="fb_login_protocol_scheme">fb303412420889025</string>
+    
+</resources>
